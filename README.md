@@ -5,4 +5,3 @@ Repositório de projetos e exercícios do segundo módulo do curso de Desenvolvi
 - Rotas e intermediários
 - API's REST
 - Programação Assíncrona
-- Desafio do módulo
