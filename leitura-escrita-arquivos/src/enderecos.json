@@ -1,0 +1,74 @@
+[
+    {
+        "cep": "69044-640",
+        "logradouro": "Rua Luiz Pontes",
+        "complemento": "",
+        "bairro": "Planalto",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    },
+    {
+        "cep": "69042-640",
+        "logradouro": "Rua Antônio Lobo Sobrinho",
+        "complemento": "",
+        "bairro": "Dom Pedro I",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    },
+    {
+        "cep": "69043-640",
+        "logradouro": "Rua João Ernesto",
+        "complemento": "",
+        "bairro": "Alvorada",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    },
+    {
+        "cep": "69045-640",
+        "logradouro": "Rua Berna",
+        "complemento": "",
+        "bairro": "Planalto",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    },
+    {
+        "cep": "69046-640",
+        "logradouro": "Travessa Camaru",
+        "complemento": "",
+        "bairro": "Alvorada",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    },
+    {
+        "cep": "69060-020",
+        "logradouro": "Avenida Ephigênio Salles",
+        "complemento": "",
+        "bairro": "Aleixo",
+        "localidade": "Manaus",
+        "uf": "AM",
+        "ibge": "1302603",
+        "gia": "",
+        "ddd": "92",
+        "siafi": "0255"
+    }
+]
